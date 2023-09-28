@@ -22,3 +22,8 @@
   - 分割实验
 
     ![image-20230811223332276](./img/image-20230811223332276.png)
+
+## Test
+```
+python tools/test.py  configs/DSTAN_thyroid.py checkpoints/iter_45000_sigma300.pth  --save-path exp/denoised
+```
