@@ -1,5 +1,3 @@
-# Video denoising
-
 - **Network**
   
   - Architecture
